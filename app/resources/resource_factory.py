@@ -45,8 +45,9 @@ class One(Resource):
             return {}, 404
 
         responseResource = getAll(resource)
-        resoucesFilteredById = filter(lambda item: item["id"] == int(resourceId), responseResource)
-        return list(resoucesFilteredById), 200
+        resourcesFilteredById = filter(lambda item: item["id"] == int(resourceId), responseResource)
+        resourcesFilteredById = list(resourcesFilteredById)
+        return resourcesFilteredById[0], 200
 
 class OneOf(Resource):
     def get(self, resource, depends):
