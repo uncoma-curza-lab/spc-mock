@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "nombre": "Licenciatura en Enfermería",
+        "titulo": null,
+        "alcance": "<p>Al finalizar el primer ciclo de la carrera se obtiene el t&iacute;tulo de Enfermero/a. La Enfermera / el Enfermero est&aacute; capacitado para: el ejercicio profesional en relaci&oacute;n de dependecia y en forma aut&oacute;noma, desarrollando, brindando y gestionando los cuidados de Enfermer&iacute;a independientes e interdependientes para la promoci&oacute;n, prevenci&oacute;n, recuperaci&oacute;n y rehabilitaci&oacute;n de la persona, la familia, grupo y comunidad hasta el nivel de complejidad de cuidados intermedios, en los &aacute;mbitos comunitario y hospitalario; gestionando su trabajo y participando en estudios de investigaci&oacute;n-acci&oacute;n.</p>",
+        "duracion_total_anos": 5,
+        "duracion_total_hs": -1,
+        "perfil": "<p>El Licenciado en Enfermer&iacute;a es un profesional, cuyo t&iacute;tulo lo habilita para administrar Servicios de Enfermer&iacute;a y cuidados enfermeros a las personas, grupos sociales y comunidades, en las distintas etapas del ciclo vital, incluyendo los de alto riesgo para la salud, en todos los niveles de atenci&oacute;n y prevenci&oacute;n, a trav&eacute;s de un proceso de investigaci&oacute;n - formaci&oacute;n, a fin de dar respuesta a las necesidades de la poblaci&oacute;n, como as&iacute; tambi&eacute;n elaborando y participando en programas de salud, ejerciendo actividades de formaci&oacute;n de recurso humano Enfermero, integrando equipos interdisciplinarios e intersectoriales.</p>",
+        "modalidades": [
+            {
+                "nombre": "Presencial",
+                "descripcion": "Modalidad presencial de cursado"
+            }
+        ],
+        "plan_vigente": {
+            "id": 1,
+            "ordenanza": "1031/12",
+            "activo": true,
+            "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/licenciaturaenenfermeria_1031-12_060320105434.pdf",
+            "_links": {
+                "self": {
+                    "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/1"
+                },
+                "asignaturas": {
+                    "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=1&withExport=1"
+                }
+            }
+        },
+        "planes": [
+            {
+                "id": 1,
+                "ordenanza": "1031/12",
+                "activo": true,
+                "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/licenciaturaenenfermeria_1031-12_060320105434.pdf",
+                "_links": {
+                    "self": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/1"
+                    },
+                    "asignaturas": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=1&withExport=1"
+                    }
+                }
+            },
+            {
+                "id": 19,
+                "ordenanza": "1019/17",
+                "activo": true,
+                "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/licenciaturaenenfermeria_1019-17_100320062634.pdf",
+                "_links": {
+                    "self": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/19"
+                    },
+                    "asignaturas": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=19&withExport=1"
+                    }
+                }
+            }
+        ],
+        "departamento": {
+            "nombre": "Enfermería",
+            "href": "http://apps.curza.uncoma.edu.ar/api/v1/departamento/1"
+        },
+        "es_titulo_intermedio": false,
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/carrera/1"
+            },
+            "planes": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/carrera?id=1"
+            }
+        }
+    }
+]

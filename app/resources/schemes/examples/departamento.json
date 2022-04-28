@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "nombre": "Enfermería",
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/departamento/1"
+            },
+            "carreras": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/carrera/departamento?id=1"
+            }
+        }
+    },
+    {
+        "id": 2,
+        "nombre": "Psicopedagogía",
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/departamento/2"
+            },
+            "carreras": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/carrera/departamento?id=2"
+            }
+        }
+    },
+    {
+        "id": 3,
+        "nombre": "Gestión Agropecuaria",
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/departamento/3"
+            },
+            "carreras": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/carrera/departamento?id=3"
+            }
+        }
+    },
+    {
+        "id": 4,
+        "nombre": "Estudios Políticos",
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/departamento/4"
+            },
+            "carreras": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/carrera/departamento?id=4"
+            }
+        }
+    },
+    {
+        "id": 5,
+        "nombre": "Lengua, Literatura y Comunicación",
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/departamento/5"
+            },
+            "carreras": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/carrera/departamento?id=5"
+            }
+        }
+    },
+    {
+        "id": 6,
+        "nombre": "Administración Pública",
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/departamento/6"
+            },
+            "carreras": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/carrera/departamento?id=6"
+            }
+        }
+    },
+    {
+        "id": 7,
+        "nombre": "Ciencia y Tecnología",
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/departamento/7"
+            },
+            "carreras": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/carrera/departamento?id=7"
+            }
+        }
+    }
+]

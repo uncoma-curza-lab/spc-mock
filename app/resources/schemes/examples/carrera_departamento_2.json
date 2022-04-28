@@ -1,0 +1,118 @@
+[
+    {
+        "id": 2,
+        "nombre": "Licenciatura en Psicopedagogía",
+        "titulo": null,
+        "alcance": "",
+        "duracion_total_anos": 5,
+        "duracion_total_hs": -1,
+        "perfil": "<p>El Licenciado en Psicopedagog&iacute;a es un profesional pr&aacute;cticas en instituciones educacionales, capacitado para desempe&ntilde;ar sus y otras, donde el de salud, laborales, comunitarias proceso de aprendizaje haga necesaria su intervenci&oacute;n. Podr&aacute; actuar en el &aacute;mbito oficial y privado, en instituciones o consultorios, con individuos o grupos.</p>",
+        "modalidades": [
+            {
+                "nombre": "Presencial",
+                "descripcion": "Modalidad presencial de cursado"
+            }
+        ],
+        "plan_vigente": {
+            "id": 3,
+            "ordenanza": "0432/09",
+            "activo": true,
+            "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/licenciaturaenpsicopedagogia_0432-09_060320113152.pdf",
+            "_links": {
+                "self": {
+                    "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/3"
+                },
+                "asignaturas": {
+                    "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=3&withExport=1"
+                }
+            }
+        },
+        "planes": [
+            {
+                "id": 3,
+                "ordenanza": "0432/09",
+                "activo": true,
+                "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/licenciaturaenpsicopedagogia_0432-09_060320113152.pdf",
+                "_links": {
+                    "self": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/3"
+                    },
+                    "asignaturas": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=3&withExport=1"
+                    }
+                }
+            }
+        ],
+        "departamento": {
+            "nombre": "Psicopedagogía",
+            "href": "http://apps.curza.uncoma.edu.ar/api/v1/departamento/2"
+        },
+        "es_titulo_intermedio": false,
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/carrera/2"
+            },
+            "planes": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/carrera?id=2"
+            }
+        }
+    },
+    {
+        "id": 3,
+        "nombre": "Profesorado en Psicopedagogía",
+        "titulo": null,
+        "alcance": "",
+        "duracion_total_anos": 5,
+        "duracion_total_hs": -1,
+        "perfil": "<p>El Profesor en Psicopedagog&iacute;a est&aacute; capacitado para desempe&ntilde;arse:</p>\r\n<ul>\r\n<li>Como docente en los niveles medio, superior y universitario del sistema educativo en el &aacute;rea de su especialidad.</li>\r\n<li>En el dise&ntilde;o, ejecuci&oacute;n y evaluaci&oacute;n de planes, programas y proyectos educativos.</li>\r\n</ul>",
+        "modalidades": [
+            {
+                "nombre": "Presencial",
+                "descripcion": "Modalidad presencial de cursado"
+            }
+        ],
+        "plan_vigente": {
+            "id": 4,
+            "ordenanza": "0431/09",
+            "activo": true,
+            "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/profesoradoenpsicopedagogia_0431-09_060320112704.pdf",
+            "_links": {
+                "self": {
+                    "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/4"
+                },
+                "asignaturas": {
+                    "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=4&withExport=1"
+                }
+            }
+        },
+        "planes": [
+            {
+                "id": 4,
+                "ordenanza": "0431/09",
+                "activo": true,
+                "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/profesoradoenpsicopedagogia_0431-09_060320112704.pdf",
+                "_links": {
+                    "self": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/4"
+                    },
+                    "asignaturas": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=4&withExport=1"
+                    }
+                }
+            }
+        ],
+        "departamento": {
+            "nombre": "Psicopedagogía",
+            "href": "http://apps.curza.uncoma.edu.ar/api/v1/departamento/2"
+        },
+        "es_titulo_intermedio": false,
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/carrera/3"
+            },
+            "planes": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/carrera?id=3"
+            }
+        }
+    }
+]

@@ -1,0 +1,597 @@
+[
+    {
+        "id": 1,
+        "nombre": "Introducción a las Ciencias Aplicadas",
+        "ano_dictado": 1,
+        "orden": 1,
+        "cuatrimestre": 1,
+        "carga_sem": 4,
+        "plan": 1,
+        "carga_total": 64,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/1"
+            }
+        }
+    },
+    {
+        "id": 3,
+        "nombre": "Morfofisiología Aplicada",
+        "ano_dictado": 1,
+        "orden": 3,
+        "cuatrimestre": 0,
+        "carga_sem": 4,
+        "plan": 1,
+        "carga_total": 128,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/3"
+            }
+        }
+    },
+    {
+        "id": 4,
+        "nombre": "Psicología General y Evolutiva",
+        "ano_dictado": 1,
+        "orden": 4,
+        "cuatrimestre": 1,
+        "carga_sem": 4,
+        "plan": 1,
+        "carga_total": 64,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/4"
+            }
+        }
+    },
+    {
+        "id": 5,
+        "nombre": "Aspectos Antropológicos del Cuidado",
+        "ano_dictado": 1,
+        "orden": 5,
+        "cuatrimestre": 1,
+        "carga_sem": 4,
+        "plan": 1,
+        "carga_total": 64,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/5"
+            }
+        }
+    },
+    {
+        "id": 6,
+        "nombre": "Fundamentos de Enfermería",
+        "ano_dictado": 1,
+        "orden": 2,
+        "cuatrimestre": 0,
+        "carga_sem": 6,
+        "plan": 1,
+        "carga_total": 192,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/6"
+            }
+        }
+    },
+    {
+        "id": 7,
+        "nombre": "Física y Química Biológica Aplicadas",
+        "ano_dictado": 1,
+        "orden": 6,
+        "cuatrimestre": 2,
+        "carga_sem": 4,
+        "plan": 1,
+        "carga_total": 64,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/7"
+            }
+        }
+    },
+    {
+        "id": 8,
+        "nombre": "Microbiología y Parasitología",
+        "ano_dictado": 1,
+        "orden": 7,
+        "cuatrimestre": 2,
+        "carga_sem": 4,
+        "plan": 1,
+        "carga_total": 64,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/8"
+            }
+        }
+    },
+    {
+        "id": 9,
+        "nombre": "Cuidados Enfermeros de Salud Psicosocial",
+        "ano_dictado": 2,
+        "orden": 9,
+        "cuatrimestre": 0,
+        "carga_sem": 4,
+        "plan": 1,
+        "carga_total": 141,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/9"
+            }
+        }
+    },
+    {
+        "id": 10,
+        "nombre": "Farmacología",
+        "ano_dictado": 2,
+        "orden": 10,
+        "cuatrimestre": 1,
+        "carga_sem": 5,
+        "plan": 1,
+        "carga_total": 80,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/10"
+            }
+        }
+    },
+    {
+        "id": 11,
+        "nombre": "Nutrición y Dietoterapia",
+        "ano_dictado": 2,
+        "orden": 11,
+        "cuatrimestre": 1,
+        "carga_sem": 4,
+        "plan": 1,
+        "carga_total": 64,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/11"
+            }
+        }
+    },
+    {
+        "id": 12,
+        "nombre": "Cuidados del Adulto y del Anciano",
+        "ano_dictado": 2,
+        "orden": 12,
+        "cuatrimestre": 0,
+        "carga_sem": 10,
+        "plan": 1,
+        "carga_total": 320,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/12"
+            }
+        }
+    },
+    {
+        "id": 13,
+        "nombre": "Aspectos Bioéticos y Legales de Enfermería I",
+        "ano_dictado": 3,
+        "orden": 19,
+        "cuatrimestre": 1,
+        "carga_sem": 4,
+        "plan": 1,
+        "carga_total": 64,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/13"
+            }
+        }
+    },
+    {
+        "id": 14,
+        "nombre": "Psicología Social y de las Organizaciones",
+        "ano_dictado": 2,
+        "orden": 14,
+        "cuatrimestre": 2,
+        "carga_sem": 3,
+        "plan": 1,
+        "carga_total": 48,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/14"
+            }
+        }
+    },
+    {
+        "id": 16,
+        "nombre": "Cuidados de la Salud de la Mujer, Niño/a y Adolescente",
+        "ano_dictado": 3,
+        "orden": 17,
+        "cuatrimestre": 0,
+        "carga_sem": 11,
+        "plan": 1,
+        "carga_total": 352,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/16"
+            }
+        }
+    },
+    {
+        "id": 17,
+        "nombre": "Bioestadística y Epidemiología Aplicada",
+        "ano_dictado": 3,
+        "orden": 18,
+        "cuatrimestre": 1,
+        "carga_sem": 4,
+        "plan": 1,
+        "carga_total": 65,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/17"
+            }
+        }
+    },
+    {
+        "id": 18,
+        "nombre": "Aspectos Sociológicos del Cuidado I",
+        "ano_dictado": 2,
+        "orden": 15,
+        "cuatrimestre": 2,
+        "carga_sem": 4,
+        "plan": 1,
+        "carga_total": 60,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/18"
+            }
+        }
+    },
+    {
+        "id": 19,
+        "nombre": "Inglés",
+        "ano_dictado": 2,
+        "orden": 13,
+        "cuatrimestre": 0,
+        "carga_sem": 3,
+        "plan": 1,
+        "carga_total": 96,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/19"
+            }
+        }
+    },
+    {
+        "id": 20,
+        "nombre": "Cuidados para la Salud Comunitaria I",
+        "ano_dictado": 3,
+        "orden": 21,
+        "cuatrimestre": 2,
+        "carga_sem": 6,
+        "plan": 1,
+        "carga_total": 100,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/20"
+            }
+        }
+    },
+    {
+        "id": 22,
+        "nombre": "Fundamentos de Investigación en Enfermería",
+        "ano_dictado": 3,
+        "orden": 22,
+        "cuatrimestre": 2,
+        "carga_sem": 4,
+        "plan": 1,
+        "carga_total": 64,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/22"
+            }
+        }
+    },
+    {
+        "id": 23,
+        "nombre": "Práctica Integradora de Cuidados Enfermeros I",
+        "ano_dictado": 3,
+        "orden": 24,
+        "cuatrimestre": 2,
+        "carga_sem": 6,
+        "plan": 1,
+        "carga_total": 100,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/23"
+            }
+        }
+    },
+    {
+        "id": 24,
+        "nombre": "La Disciplina Enfermera",
+        "ano_dictado": 4,
+        "orden": 25,
+        "cuatrimestre": 1,
+        "carga_sem": 5,
+        "plan": 1,
+        "carga_total": 80,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/24"
+            }
+        }
+    },
+    {
+        "id": 25,
+        "nombre": "Metodología de la Investigación en el Cuidado Enfermero",
+        "ano_dictado": 4,
+        "orden": 26,
+        "cuatrimestre": 0,
+        "carga_sem": 4,
+        "plan": 1,
+        "carga_total": 128,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/25"
+            }
+        }
+    },
+    {
+        "id": 26,
+        "nombre": "Bioestadística Aplicada",
+        "ano_dictado": 4,
+        "orden": 28,
+        "cuatrimestre": 1,
+        "carga_sem": 4,
+        "plan": 1,
+        "carga_total": 64,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/26"
+            }
+        }
+    },
+    {
+        "id": 27,
+        "nombre": "Formación en Enfermería",
+        "ano_dictado": 4,
+        "orden": 29,
+        "cuatrimestre": 2,
+        "carga_sem": 4,
+        "plan": 1,
+        "carga_total": 74,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/27"
+            }
+        }
+    },
+    {
+        "id": 30,
+        "nombre": "Cuidados para la Salud Comunitaria II",
+        "ano_dictado": 5,
+        "orden": 32,
+        "cuatrimestre": 0,
+        "carga_sem": 5,
+        "plan": 1,
+        "carga_total": 160,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/30"
+            }
+        }
+    },
+    {
+        "id": 31,
+        "nombre": "Práctica Integradora de Cuidados Enfermeros II",
+        "ano_dictado": 5,
+        "orden": 34,
+        "cuatrimestre": 2,
+        "carga_sem": 6,
+        "plan": 1,
+        "carga_total": 100,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/31"
+            }
+        }
+    },
+    {
+        "id": 388,
+        "nombre": "Materia electiva I",
+        "ano_dictado": 2,
+        "orden": 16,
+        "cuatrimestre": 2,
+        "carga_sem": 3,
+        "plan": 1,
+        "carga_total": 48,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/388"
+            }
+        }
+    },
+    {
+        "id": 389,
+        "nombre": "Materia electiva II",
+        "ano_dictado": 3,
+        "orden": 20,
+        "cuatrimestre": 1,
+        "carga_sem": 3,
+        "plan": 1,
+        "carga_total": 48,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/389"
+            }
+        }
+    },
+    {
+        "id": 390,
+        "nombre": "Gestión de los servicios de enfermería hospitalarios y comunitarios I",
+        "ano_dictado": 3,
+        "orden": 23,
+        "cuatrimestre": 2,
+        "carga_sem": 4,
+        "plan": 1,
+        "carga_total": 64,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/390"
+            }
+        }
+    },
+    {
+        "id": 391,
+        "nombre": "Cuidados a Personas en estado crítico de Salud",
+        "ano_dictado": 4,
+        "orden": 27,
+        "cuatrimestre": 0,
+        "carga_sem": 8,
+        "plan": 1,
+        "carga_total": 256,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/391"
+            }
+        }
+    },
+    {
+        "id": 392,
+        "nombre": "Aspectos Bioéticos y Legales de Enfermería II",
+        "ano_dictado": 4,
+        "orden": 30,
+        "cuatrimestre": 2,
+        "carga_sem": 6,
+        "plan": 1,
+        "carga_total": 96,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/392"
+            }
+        }
+    },
+    {
+        "id": 393,
+        "nombre": "Gestión de los servicios de enfermería hospitalarios y comunitarios II",
+        "ano_dictado": 5,
+        "orden": 31,
+        "cuatrimestre": 0,
+        "carga_sem": 6,
+        "plan": 1,
+        "carga_total": 200,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/393"
+            }
+        }
+    },
+    {
+        "id": 394,
+        "nombre": "Aspectos Sociológicos del Cuidado II",
+        "ano_dictado": 5,
+        "orden": 33,
+        "cuatrimestre": 1,
+        "carga_sem": 6,
+        "plan": 1,
+        "carga_total": 90,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/394"
+            }
+        }
+    },
+    {
+        "id": 395,
+        "nombre": "Taller de Tesis",
+        "ano_dictado": 5,
+        "orden": 35,
+        "cuatrimestre": 0,
+        "carga_sem": 6,
+        "plan": 1,
+        "carga_total": 192,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/395"
+            }
+        }
+    },
+    {
+        "id": 396,
+        "nombre": "Filosofía y Ética",
+        "ano_dictado": 1,
+        "orden": 8,
+        "cuatrimestre": 2,
+        "carga_sem": 4,
+        "plan": 1,
+        "carga_total": 64,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/396"
+            }
+        }
+    }
+]

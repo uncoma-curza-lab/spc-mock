@@ -1,0 +1,282 @@
+[
+    {
+        "id": 1,
+        "ordenanza": "1031/12",
+        "activo": true,
+        "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/licenciaturaenenfermeria_1031-12_060320105434.pdf",
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/1"
+            },
+            "asignaturas": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=1&withExport=1"
+            }
+        }
+    },
+    {
+        "id": 2,
+        "ordenanza": "0238/99",
+        "activo": false,
+        "archivo": "",
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/2"
+            },
+            "asignaturas": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=2&withExport=1"
+            }
+        }
+    },
+    {
+        "id": 3,
+        "ordenanza": "0432/09",
+        "activo": true,
+        "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/licenciaturaenpsicopedagogia_0432-09_060320113152.pdf",
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/3"
+            },
+            "asignaturas": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=3&withExport=1"
+            }
+        }
+    },
+    {
+        "id": 4,
+        "ordenanza": "0431/09",
+        "activo": true,
+        "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/profesoradoenpsicopedagogia_0431-09_060320112704.pdf",
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/4"
+            },
+            "asignaturas": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=4&withExport=1"
+            }
+        }
+    },
+    {
+        "id": 5,
+        "ordenanza": "0374/11",
+        "activo": true,
+        "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/licenciaturaengestiondeempresasagropecuarias_0374-11_060320112450.pdf",
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/5"
+            },
+            "asignaturas": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=5&withExport=1"
+            }
+        }
+    },
+    {
+        "id": 6,
+        "ordenanza": "0995/12",
+        "activo": true,
+        "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/profesoradoencienciasagropecuarias_0995-12_060320112506.pdf",
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/6"
+            },
+            "asignaturas": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=6&withExport=1"
+            }
+        }
+    },
+    {
+        "id": 8,
+        "ordenanza": "0605/11",
+        "activo": true,
+        "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/licenciaturaencienciaspoliticas_0605-11_060320112641.pdf",
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/8"
+            },
+            "asignaturas": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=8&withExport=1"
+            }
+        }
+    },
+    {
+        "id": 9,
+        "ordenanza": "0450/16",
+        "activo": true,
+        "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/profesoradouniversitarioencienciaspoliticas_0450-16_060320113124.pdf",
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/9"
+            },
+            "asignaturas": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=9&withExport=1"
+            }
+        }
+    },
+    {
+        "id": 10,
+        "ordenanza": "0962/98",
+        "activo": true,
+        "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/profesoradodelenguaycomunicacionoralyescrita_0962-98_040820043416.pdf",
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/10"
+            },
+            "asignaturas": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=10&withExport=1"
+            }
+        }
+    },
+    {
+        "id": 11,
+        "ordenanza": "0859/01",
+        "activo": true,
+        "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/profesoradodelenguaycomunicacionoralyescrita_0859-01_060320112852.pdf",
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/11"
+            },
+            "asignaturas": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=11&withExport=1"
+            }
+        }
+    },
+    {
+        "id": 12,
+        "ordenanza": "0674/16",
+        "activo": true,
+        "archivo": "",
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/12"
+            },
+            "asignaturas": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=12&withExport=1"
+            }
+        }
+    },
+    {
+        "id": 13,
+        "ordenanza": "1215/13",
+        "activo": false,
+        "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/licenciaturaenadministracionpublica_1215-13_060320112435.pdf",
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/13"
+            },
+            "asignaturas": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=13&withExport=1"
+            }
+        }
+    },
+    {
+        "id": 14,
+        "ordenanza": "0814/01",
+        "activo": true,
+        "archivo": "",
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/14"
+            },
+            "asignaturas": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=14&withExport=1"
+            }
+        }
+    },
+    {
+        "id": 15,
+        "ordenanza": "0895/12",
+        "activo": true,
+        "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/tecnicaturauniversitariaenadministraciondesistemasysoftwarelibre_0895-12_060320112349.pdf",
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/15"
+            },
+            "asignaturas": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=15&withExport=1"
+            }
+        }
+    },
+    {
+        "id": 16,
+        "ordenanza": "0885/12",
+        "activo": true,
+        "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/tecnicaturauniversitariaendesarrolloweb_0885-12_060320105507.pdf",
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/16"
+            },
+            "asignaturas": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=16&withExport=1"
+            }
+        }
+    },
+    {
+        "id": 17,
+        "ordenanza": "1074/13",
+        "activo": true,
+        "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/tecnicaturauniversitariaendesarrolloweb_1074-13_060320104236.pdf",
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/17"
+            },
+            "asignaturas": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=17&withExport=1"
+            }
+        }
+    },
+    {
+        "id": 18,
+        "ordenanza": "0428/88",
+        "activo": true,
+        "archivo": "",
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/18"
+            },
+            "asignaturas": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=18&withExport=1"
+            }
+        }
+    },
+    {
+        "id": 19,
+        "ordenanza": "1019/17",
+        "activo": true,
+        "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/licenciaturaenenfermeria_1019-17_100320062634.pdf",
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/19"
+            },
+            "asignaturas": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=19&withExport=1"
+            }
+        }
+    },
+    {
+        "id": 20,
+        "ordenanza": "0180/14",
+        "activo": true,
+        "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/licenciaturaengestionderecursoshumanos(ciclodelicenciatura)_0180-14_110320114800.pdf",
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/20"
+            },
+            "asignaturas": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=20&withExport=1"
+            }
+        }
+    },
+    {
+        "id": 21,
+        "ordenanza": "1521/14",
+        "activo": true,
+        "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/tecnicaturauniversitariaenadministracionpublica_1521-14_120320122422.pdf",
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/21"
+            },
+            "asignaturas": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=21&withExport=1"
+            }
+        }
+    }
+]

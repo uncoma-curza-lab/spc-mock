@@ -1,0 +1,495 @@
+[
+    {
+        "id": 46,
+        "nombre": "Sociología",
+        "ano_dictado": 1,
+        "orden": 2,
+        "cuatrimestre": 1,
+        "carga_sem": 6,
+        "plan": 4,
+        "carga_total": 96,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/46"
+            }
+        }
+    },
+    {
+        "id": 47,
+        "nombre": "Psicología",
+        "ano_dictado": 1,
+        "orden": 3,
+        "cuatrimestre": 1,
+        "carga_sem": 6,
+        "plan": 4,
+        "carga_total": 96,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.a/api/v1/asignatura/47"
+            }
+        }
+    },
+    {
+        "id": 48,
+        "nombre": "Pedagogía",
+        "ano_dictado": 1,
+        "orden": 4,
+        "cuatrimestre": 2,
+        "carga_sem": 6,
+        "plan": 4,
+        "carga_total": 96,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/48"
+            }
+        }
+    },
+    {
+        "id": 49,
+        "nombre": "Ciencia y Conocimiento Científico",
+        "ano_dictado": 1,
+        "orden": 5,
+        "cuatrimestre": 2,
+        "carga_sem": 6,
+        "plan": 4,
+        "carga_total": 96,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/49"
+            }
+        }
+    },
+    {
+        "id": 50,
+        "nombre": "Antropología Socio Cultural",
+        "ano_dictado": 1,
+        "orden": 6,
+        "cuatrimestre": 2,
+        "carga_sem": 6,
+        "plan": 4,
+        "carga_total": 96,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/50"
+            }
+        }
+    },
+    {
+        "id": 51,
+        "nombre": "Historia de la Educación Argentina",
+        "ano_dictado": 2,
+        "orden": 7,
+        "cuatrimestre": 1,
+        "carga_sem": 6,
+        "plan": 4,
+        "carga_total": 96,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/51"
+            }
+        }
+    },
+    {
+        "id": 52,
+        "nombre": "Psicoanálisis",
+        "ano_dictado": 2,
+        "orden": 8,
+        "cuatrimestre": 0,
+        "carga_sem": 6,
+        "plan": 4,
+        "carga_total": 192,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/52"
+            }
+        }
+    },
+    {
+        "id": 53,
+        "nombre": "Neurofisiología",
+        "ano_dictado": 2,
+        "orden": 9,
+        "cuatrimestre": 1,
+        "carga_sem": 6,
+        "plan": 4,
+        "carga_total": 96,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/53"
+            }
+        }
+    },
+    {
+        "id": 54,
+        "nombre": "Psicología Genética",
+        "ano_dictado": 2,
+        "orden": 10,
+        "cuatrimestre": 0,
+        "carga_sem": 5,
+        "plan": 4,
+        "carga_total": 160,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/54"
+            }
+        }
+    },
+    {
+        "id": 55,
+        "nombre": "Psicología evolutiva",
+        "ano_dictado": 2,
+        "orden": 11,
+        "cuatrimestre": 2,
+        "carga_sem": 6,
+        "plan": 4,
+        "carga_total": 96,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/55"
+            }
+        }
+    },
+    {
+        "id": 56,
+        "nombre": "Didáctica General",
+        "ano_dictado": 2,
+        "orden": 12,
+        "cuatrimestre": 2,
+        "carga_sem": 6,
+        "plan": 4,
+        "carga_total": 96,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/56"
+            }
+        }
+    },
+    {
+        "id": 57,
+        "nombre": "Psicología del Aprendizaje",
+        "ano_dictado": 3,
+        "orden": 13,
+        "cuatrimestre": 0,
+        "carga_sem": 6,
+        "plan": 4,
+        "carga_total": 192,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/57"
+            }
+        }
+    },
+    {
+        "id": 58,
+        "nombre": "Técnicas de Exploración Psicopedagógica",
+        "ano_dictado": 3,
+        "orden": 14,
+        "cuatrimestre": 0,
+        "carga_sem": 8,
+        "plan": 4,
+        "carga_total": 256,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/58"
+            }
+        }
+    },
+    {
+        "id": 59,
+        "nombre": "Análisis Institucional I",
+        "ano_dictado": 3,
+        "orden": 15,
+        "cuatrimestre": 1,
+        "carga_sem": 6,
+        "plan": 4,
+        "carga_total": 96,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/59"
+            }
+        }
+    },
+    {
+        "id": 60,
+        "nombre": "Psicopatología",
+        "ano_dictado": 3,
+        "orden": 16,
+        "cuatrimestre": 0,
+        "carga_sem": 5,
+        "plan": 4,
+        "carga_total": 160,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/60"
+            }
+        }
+    },
+    {
+        "id": 61,
+        "nombre": "Epistemología Disciplinar",
+        "ano_dictado": 3,
+        "orden": 17,
+        "cuatrimestre": 2,
+        "carga_sem": 6,
+        "plan": 4,
+        "carga_total": 96,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/61"
+            }
+        }
+    },
+    {
+        "id": 62,
+        "nombre": "Análisis Institucional II",
+        "ano_dictado": 3,
+        "orden": 18,
+        "cuatrimestre": 2,
+        "carga_sem": 6,
+        "plan": 4,
+        "carga_total": 96,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/62"
+            }
+        }
+    },
+    {
+        "id": 63,
+        "nombre": "Didácticas Especiales",
+        "ano_dictado": 4,
+        "orden": 19,
+        "cuatrimestre": 1,
+        "carga_sem": 6,
+        "plan": 4,
+        "carga_total": 96,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/63"
+            }
+        }
+    },
+    {
+        "id": 64,
+        "nombre": "Clínica Psicopedagógica I (Diagnóstico)",
+        "ano_dictado": 4,
+        "orden": 20,
+        "cuatrimestre": 0,
+        "carga_sem": 6,
+        "plan": 4,
+        "carga_total": 192,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/64"
+            }
+        }
+    },
+    {
+        "id": 65,
+        "nombre": "Metodología de la Investigación",
+        "ano_dictado": 4,
+        "orden": 21,
+        "cuatrimestre": 1,
+        "carga_sem": 6,
+        "plan": 4,
+        "carga_total": 96,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/65"
+            }
+        }
+    },
+    {
+        "id": 66,
+        "nombre": "Pedagogía Especial",
+        "ano_dictado": 4,
+        "orden": 22,
+        "cuatrimestre": 1,
+        "carga_sem": 6,
+        "plan": 4,
+        "carga_total": 96,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/66"
+            }
+        }
+    },
+    {
+        "id": 67,
+        "nombre": "Psicopedagogía Operativa",
+        "ano_dictado": 4,
+        "orden": 23,
+        "cuatrimestre": 2,
+        "carga_sem": 5,
+        "plan": 4,
+        "carga_total": 80,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/67"
+            }
+        }
+    },
+    {
+        "id": 68,
+        "nombre": "Política y Legislación Educacional Argentina",
+        "ano_dictado": 4,
+        "orden": 24,
+        "cuatrimestre": 2,
+        "carga_sem": 6,
+        "plan": 4,
+        "carga_total": 96,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/68"
+            }
+        }
+    },
+    {
+        "id": 69,
+        "nombre": "Orientación Vocacional Ocupacional",
+        "ano_dictado": 4,
+        "orden": 25,
+        "cuatrimestre": 2,
+        "carga_sem": 6,
+        "plan": 4,
+        "carga_total": 96,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/69"
+            }
+        }
+    },
+    {
+        "id": 70,
+        "nombre": "Clínica Psicopedagógica II (Tratamiento)",
+        "ano_dictado": 5,
+        "orden": 26,
+        "cuatrimestre": 0,
+        "carga_sem": 6,
+        "plan": 4,
+        "carga_total": 192,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/70"
+            }
+        }
+    },
+    {
+        "id": 71,
+        "nombre": "Metodología de las Materias Psicopedagógicas",
+        "ano_dictado": 5,
+        "orden": 27,
+        "cuatrimestre": 1,
+        "carga_sem": 6,
+        "plan": 4,
+        "carga_total": 96,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/71"
+            }
+        }
+    },
+    {
+        "id": 72,
+        "nombre": "Práctica Docente",
+        "ano_dictado": 5,
+        "orden": 28,
+        "cuatrimestre": 2,
+        "carga_sem": 6,
+        "plan": 4,
+        "carga_total": 96,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/72"
+            }
+        }
+    },
+    {
+        "id": 73,
+        "nombre": "Idioma Extranjero",
+        "ano_dictado": 5,
+        "orden": 29,
+        "cuatrimestre": 0,
+        "carga_sem": 6,
+        "plan": 4,
+        "carga_total": 196,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/73"
+            }
+        }
+    },
+    {
+        "id": 74,
+        "nombre": "Filosofía",
+        "ano_dictado": 1,
+        "orden": 1,
+        "cuatrimestre": 1,
+        "carga_sem": 6,
+        "plan": 4,
+        "carga_total": 96,
+        "requisitos": null,
+        "correlativas": [],
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/74"
+            }
+        }
+    }
+]

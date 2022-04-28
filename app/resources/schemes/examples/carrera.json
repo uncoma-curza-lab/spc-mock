@@ -1,0 +1,903 @@
+[
+    {
+        "id": 1,
+        "nombre": "Licenciatura en Enfermería",
+        "titulo": null,
+        "alcance": "<p>Al finalizar el primer ciclo de la carrera se obtiene el t&iacute;tulo de Enfermero/a. La Enfermera / el Enfermero est&aacute; capacitado para: el ejercicio profesional en relaci&oacute;n de dependecia y en forma aut&oacute;noma, desarrollando, brindando y gestionando los cuidados de Enfermer&iacute;a independientes e interdependientes para la promoci&oacute;n, prevenci&oacute;n, recuperaci&oacute;n y rehabilitaci&oacute;n de la persona, la familia, grupo y comunidad hasta el nivel de complejidad de cuidados intermedios, en los &aacute;mbitos comunitario y hospitalario; gestionando su trabajo y participando en estudios de investigaci&oacute;n-acci&oacute;n.</p>",
+        "duracion_total_anos": 5,
+        "duracion_total_hs": -1,
+        "perfil": "<p>El Licenciado en Enfermer&iacute;a es un profesional, cuyo t&iacute;tulo lo habilita para administrar Servicios de Enfermer&iacute;a y cuidados enfermeros a las personas, grupos sociales y comunidades, en las distintas etapas del ciclo vital, incluyendo los de alto riesgo para la salud, en todos los niveles de atenci&oacute;n y prevenci&oacute;n, a trav&eacute;s de un proceso de investigaci&oacute;n - formaci&oacute;n, a fin de dar respuesta a las necesidades de la poblaci&oacute;n, como as&iacute; tambi&eacute;n elaborando y participando en programas de salud, ejerciendo actividades de formaci&oacute;n de recurso humano Enfermero, integrando equipos interdisciplinarios e intersectoriales.</p>",
+        "modalidades": [
+            {
+                "nombre": "Presencial",
+                "descripcion": "Modalidad presencial de cursado"
+            }
+        ],
+        "plan_vigente": {
+            "id": 1,
+            "ordenanza": "1031/12",
+            "activo": true,
+            "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/licenciaturaenenfermeria_1031-12_060320105434.pdf",
+            "_links": {
+                "self": {
+                    "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/1"
+                },
+                "asignaturas": {
+                    "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=1&withExport=1"
+                }
+            }
+        },
+        "planes": [
+            {
+                "id": 1,
+                "ordenanza": "1031/12",
+                "activo": true,
+                "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/licenciaturaenenfermeria_1031-12_060320105434.pdf",
+                "_links": {
+                    "self": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/1"
+                    },
+                    "asignaturas": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=1&withExport=1"
+                    }
+                }
+            },
+            {
+                "id": 19,
+                "ordenanza": "1019/17",
+                "activo": true,
+                "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/licenciaturaenenfermeria_1019-17_100320062634.pdf",
+                "_links": {
+                    "self": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/19"
+                    },
+                    "asignaturas": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=19&withExport=1"
+                    }
+                }
+            }
+        ],
+        "departamento": {
+            "nombre": "Enfermería",
+            "href": "http://apps.curza.uncoma.edu.ar/api/v1/departamento/1"
+        },
+        "es_titulo_intermedio": false,
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/carrera/1"
+            },
+            "planes": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/carrera?id=1"
+            }
+        }
+    },
+    {
+        "id": 2,
+        "nombre": "Licenciatura en Psicopedagogía",
+        "titulo": null,
+        "alcance": "",
+        "duracion_total_anos": 5,
+        "duracion_total_hs": -1,
+        "perfil": "<p>El Licenciado en Psicopedagog&iacute;a es un profesional pr&aacute;cticas en instituciones educacionales, capacitado para desempe&ntilde;ar sus y otras, donde el de salud, laborales, comunitarias proceso de aprendizaje haga necesaria su intervenci&oacute;n. Podr&aacute; actuar en el &aacute;mbito oficial y privado, en instituciones o consultorios, con individuos o grupos.</p>",
+        "modalidades": [
+            {
+                "nombre": "Presencial",
+                "descripcion": "Modalidad presencial de cursado"
+            }
+        ],
+        "plan_vigente": {
+            "id": 3,
+            "ordenanza": "0432/09",
+            "activo": true,
+            "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/licenciaturaenpsicopedagogia_0432-09_060320113152.pdf",
+            "_links": {
+                "self": {
+                    "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/3"
+                },
+                "asignaturas": {
+                    "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=3&withExport=1"
+                }
+            }
+        },
+        "planes": [
+            {
+                "id": 3,
+                "ordenanza": "0432/09",
+                "activo": true,
+                "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/licenciaturaenpsicopedagogia_0432-09_060320113152.pdf",
+                "_links": {
+                    "self": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/3"
+                    },
+                    "asignaturas": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=3&withExport=1"
+                    }
+                }
+            }
+        ],
+        "departamento": {
+            "nombre": "Psicopedagogía",
+            "href": "http://apps.curza.uncoma.edu.ar/api/v1/departamento/2"
+        },
+        "es_titulo_intermedio": false,
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/carrera/2"
+            },
+            "planes": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/carrera?id=2"
+            }
+        }
+    },
+    {
+        "id": 3,
+        "nombre": "Profesorado en Psicopedagogía",
+        "titulo": null,
+        "alcance": "",
+        "duracion_total_anos": 5,
+        "duracion_total_hs": -1,
+        "perfil": "<p>El Profesor en Psicopedagog&iacute;a est&aacute; capacitado para desempe&ntilde;arse:</p>\r\n<ul>\r\n<li>Como docente en los niveles medio, superior y universitario del sistema educativo en el &aacute;rea de su especialidad.</li>\r\n<li>En el dise&ntilde;o, ejecuci&oacute;n y evaluaci&oacute;n de planes, programas y proyectos educativos.</li>\r\n</ul>",
+        "modalidades": [
+            {
+                "nombre": "Presencial",
+                "descripcion": "Modalidad presencial de cursado"
+            }
+        ],
+        "plan_vigente": {
+            "id": 4,
+            "ordenanza": "0431/09",
+            "activo": true,
+            "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/profesoradoenpsicopedagogia_0431-09_060320112704.pdf",
+            "_links": {
+                "self": {
+                    "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/4"
+                },
+                "asignaturas": {
+                    "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=4&withExport=1"
+                }
+            }
+        },
+        "planes": [
+            {
+                "id": 4,
+                "ordenanza": "0431/09",
+                "activo": true,
+                "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/profesoradoenpsicopedagogia_0431-09_060320112704.pdf",
+                "_links": {
+                    "self": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/4"
+                    },
+                    "asignaturas": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=4&withExport=1"
+                    }
+                }
+            }
+        ],
+        "departamento": {
+            "nombre": "Psicopedagogía",
+            "href": "http://apps.curza.uncoma.edu.ar/api/v1/departamento/2"
+        },
+        "es_titulo_intermedio": false,
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/carrera/3"
+            },
+            "planes": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/carrera?id=3"
+            }
+        }
+    },
+    {
+        "id": 4,
+        "nombre": "Licenciatura en Gestión de Empresas Agropecuarias",
+        "titulo": null,
+        "alcance": "",
+        "duracion_total_anos": 5,
+        "duracion_total_hs": -1,
+        "perfil": "<p>El Licenciado ser&aacute; un profesional capacitado para formular y posteriormente conducir la ejecuci&oacute;n de las estrategias productivas, de comercializaci&oacute;n, financiera y administrativa de la empresa agropecuaria.</p>\r\n<p>Estar&aacute; en condiciones de capacitar y asesorar a productores agropecuarios y a sus asociaciones en la gesti&oacute;n productiva y comercial a fin de obtener la mayor eficiencia del proceso. Podr&aacute; participar en el control de gesti&oacute;n de empresas agr&iacute;colas, as&iacute; como en actividades de investigaci&oacute;n, experimentaci&oacute;n y extensi&oacute;n relacionadas con el gerenciamiento de la empresa agropecuaria.</p>\r\n<p>Podr&aacute; participar en la docencia universitaria, en la evaluaci&oacute;n de proyectos de inversi&oacute;n y en el asesoramiento a entes p&uacute;blicos.</p>",
+        "modalidades": [
+            {
+                "nombre": "Presencial",
+                "descripcion": "Modalidad presencial de cursado"
+            },
+            {
+                "nombre": "Semipresencial",
+                "descripcion": "Modalidad semipresencial de cursado"
+            }
+        ],
+        "plan_vigente": {
+            "id": 5,
+            "ordenanza": "0374/11",
+            "activo": true,
+            "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/licenciaturaengestiondeempresasagropecuarias_0374-11_060320112450.pdf",
+            "_links": {
+                "self": {
+                    "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/5"
+                },
+                "asignaturas": {
+                    "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=5&withExport=1"
+                }
+            }
+        },
+        "planes": [
+            {
+                "id": 5,
+                "ordenanza": "0374/11",
+                "activo": true,
+                "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/licenciaturaengestiondeempresasagropecuarias_0374-11_060320112450.pdf",
+                "_links": {
+                    "self": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/5"
+                    },
+                    "asignaturas": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=5&withExport=1"
+                    }
+                }
+            }
+        ],
+        "departamento": {
+            "nombre": "Gestión Agropecuaria",
+            "href": "http://apps.curza.uncoma.edu.ar/api/v1/departamento/3"
+        },
+        "es_titulo_intermedio": false,
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/carrera/4"
+            },
+            "planes": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/carrera?id=4"
+            }
+        }
+    },
+    {
+        "id": 5,
+        "nombre": "Profesorado en Ciencias Agropecuarias",
+        "titulo": null,
+        "alcance": "<p>Ejercer la docencia en el campo disciplinar de su formaci&oacute;n acad&eacute;mica en los niveles medio y superior del sistema educativo</p>",
+        "duracion_total_anos": 5,
+        "duracion_total_hs": 3200,
+        "perfil": "<p>El Profesor en Ciencias Agropecuarias, egresado del Centro Universitario Regional Zona Atl&aacute;ntica de la Universidad Nacional del Comahue ser&aacute; un profesional docente capacitado para:</p>\r\n<ul>\r\n<li>Dominar los conocimientos a ense&ntilde;ar y actualizar su propio marco de referencia te&oacute;rico.</li>\r\n<li>Adecuar, producir y evaluar contenidos curriculares.</li>\r\n<li>Reconocer el sentido educativo de los contenidos a ense&ntilde;ar.</li>\r\n<li>Ampliar su propio horizonte cultural m&aacute;s all&aacute; de los contenidos culturales imprescindibles para ense&ntilde;ar en la clase.</li>\r\n<li>Identificar las caracter&iacute;sticas y necesidades de aprendizaje de los alumnos como base para su actuaci&oacute;n docente.</li>\r\n<li>Organizar y dirigir situaciones de aprendizaje, utilizando al contexto sociopol&iacute;tico, sociocultural y socioling&uuml;&iacute;stico como fuente de ense&ntilde;anza.</li>\r\n<li>concebir y desarrollar dispositivos pedag&oacute;gicos para la diversidad asentados sobre la confianza en las posibilidades de aprender de los alumnos.</li>\r\n<li>Involucrar activamente a los alumnos en sus aprendizajes y en su trabajo.</li>\r\n<li>Acompa&ntilde;ar el avance en el aprendizaje de los alumnos identificando tanto los factores que lo potencian como los obst&aacute;culos que constituyen dificultades para el aprender.</li>\r\n<li>Conducir los procesos grupales y facilitar el aprendizaje individual.</li>\r\n<li>Reconocer y utilizar los recursos disponibles en la escuela para su aprovechamiento en la ense&ntilde;anza.</li>\r\n<li>Seleccionar y utilizar nuevas tecnolog&iacute;as de manera contextualizada o reconocer las caracter&iacute;sticas y necesidades del contexto inmediato y mediato de la escuela y de las familias.</li>\r\n<li>Participar en el intercambio y comunicaci&oacute;n con los familias para retroalimentar su propia tarea.</li>\r\n<li>Trabajar en equipo con otros docentes, elaborar proyectos institucionales compartidos y participar y proponer actividades propias de la escuela.</li>\r\n</ul>",
+        "modalidades": [
+            {
+                "nombre": "Presencial",
+                "descripcion": "Modalidad presencial de cursado"
+            }
+        ],
+        "plan_vigente": {
+            "id": 6,
+            "ordenanza": "0995/12",
+            "activo": true,
+            "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/profesoradoencienciasagropecuarias_0995-12_060320112506.pdf",
+            "_links": {
+                "self": {
+                    "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/6"
+                },
+                "asignaturas": {
+                    "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=6&withExport=1"
+                }
+            }
+        },
+        "planes": [
+            {
+                "id": 6,
+                "ordenanza": "0995/12",
+                "activo": true,
+                "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/profesoradoencienciasagropecuarias_0995-12_060320112506.pdf",
+                "_links": {
+                    "self": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/6"
+                    },
+                    "asignaturas": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=6&withExport=1"
+                    }
+                }
+            }
+        ],
+        "departamento": {
+            "nombre": "Gestión Agropecuaria",
+            "href": "http://apps.curza.uncoma.edu.ar/api/v1/departamento/3"
+        },
+        "es_titulo_intermedio": false,
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/carrera/5"
+            },
+            "planes": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/carrera?id=5"
+            }
+        }
+    },
+    {
+        "id": 6,
+        "nombre": "Tecnicatura Superior en Producción Agropecuaria",
+        "titulo": null,
+        "alcance": null,
+        "duracion_total_anos": -1,
+        "duracion_total_hs": -1,
+        "perfil": null,
+        "modalidades": [
+            {
+                "nombre": "Presencial",
+                "descripcion": "Modalidad presencial de cursado"
+            }
+        ],
+        "plan_vigente": null,
+        "planes": [],
+        "departamento": {
+            "nombre": "Gestión Agropecuaria",
+            "href": "http://apps.curza.uncoma.edu.ar/api/v1/departamento/3"
+        },
+        "es_titulo_intermedio": true,
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/carrera/6"
+            },
+            "planes": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/carrera?id=6"
+            }
+        }
+    },
+    {
+        "id": 7,
+        "nombre": "Licenciatura en Ciencias Políticas",
+        "titulo": null,
+        "alcance": "<p>Este licenciado estar&aacute; capacitado para:</p>\r\n<ul>\r\n<li>Asesorar a entidades p&uacute;blicas y privadas en los niveles de decisi&oacute;n.</li>\r\n<li>Ejercer la funci&oacute;n p&uacute;blica a partir de las jerarqu&iacute;as directivas</li>\r\n<li>Realizar an&aacute;lisis pol&iacute;tico</li>\r\n<li>Investigar las distintas tem&aacute;ticas que conciernen a la Ciencia Pol&iacute;tica</li>\r\n<li>Formular proyectos, planes y programas de evaluaci&oacute;n de pol&iacute;ticas p&uacute;blicas</li>\r\n</ul>",
+        "duracion_total_anos": 5,
+        "duracion_total_hs": 3696,
+        "perfil": "",
+        "modalidades": [
+            {
+                "nombre": "Presencial",
+                "descripcion": "Modalidad presencial de cursado"
+            }
+        ],
+        "plan_vigente": {
+            "id": 8,
+            "ordenanza": "0605/11",
+            "activo": true,
+            "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/licenciaturaencienciaspoliticas_0605-11_060320112641.pdf",
+            "_links": {
+                "self": {
+                    "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/8"
+                },
+                "asignaturas": {
+                    "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=8&withExport=1"
+                }
+            }
+        },
+        "planes": [
+            {
+                "id": 8,
+                "ordenanza": "0605/11",
+                "activo": true,
+                "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/licenciaturaencienciaspoliticas_0605-11_060320112641.pdf",
+                "_links": {
+                    "self": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/8"
+                    },
+                    "asignaturas": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=8&withExport=1"
+                    }
+                }
+            }
+        ],
+        "departamento": {
+            "nombre": "Estudios Políticos",
+            "href": "http://apps.curza.uncoma.edu.ar/api/v1/departamento/4"
+        },
+        "es_titulo_intermedio": false,
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/carrera/7"
+            },
+            "planes": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/carrera?id=7"
+            }
+        }
+    },
+    {
+        "id": 8,
+        "nombre": "Profesorado Universitario en Ciencias Políticas",
+        "titulo": null,
+        "alcance": "",
+        "duracion_total_anos": -1,
+        "duracion_total_hs": -1,
+        "perfil": "",
+        "modalidades": [
+            {
+                "nombre": "Presencial",
+                "descripcion": "Modalidad presencial de cursado"
+            }
+        ],
+        "plan_vigente": {
+            "id": 9,
+            "ordenanza": "0450/16",
+            "activo": true,
+            "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/profesoradouniversitarioencienciaspoliticas_0450-16_060320113124.pdf",
+            "_links": {
+                "self": {
+                    "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/9"
+                },
+                "asignaturas": {
+                    "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=9&withExport=1"
+                }
+            }
+        },
+        "planes": [
+            {
+                "id": 9,
+                "ordenanza": "0450/16",
+                "activo": true,
+                "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/profesoradouniversitarioencienciaspoliticas_0450-16_060320113124.pdf",
+                "_links": {
+                    "self": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/9"
+                    },
+                    "asignaturas": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=9&withExport=1"
+                    }
+                }
+            }
+        ],
+        "departamento": {
+            "nombre": "Estudios Políticos",
+            "href": "http://apps.curza.uncoma.edu.ar/api/v1/departamento/4"
+        },
+        "es_titulo_intermedio": false,
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/carrera/8"
+            },
+            "planes": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/carrera?id=8"
+            }
+        }
+    },
+    {
+        "id": 9,
+        "nombre": "Profesorado de Lengua y Comunicación Oral y Escrita",
+        "titulo": null,
+        "alcance": "",
+        "duracion_total_anos": -1,
+        "duracion_total_hs": -1,
+        "perfil": "<p>El profesor podr&aacute; desempe&ntilde;arse como docente de nivel medio y superior en las &aacute;reas de Lengua, Comunicaci&oacute;n y Literatura. Tambi&eacute;n podr&aacute; desempe&ntilde;arse como t&eacute;cnico de esas &aacute;reas en organismos p&uacute;blicos y privados, asesorar a personas o instituciones en los temas de su competencia, coordinar talleres de lectura y de escritura, generar programas de capacitaci&oacute;n en las &aacute;reas de su incumbencia como as&iacute; tambi&eacute;n planes de educaci&oacute;n a distancia.</p>",
+        "modalidades": [
+            {
+                "nombre": "Presencial",
+                "descripcion": "Modalidad presencial de cursado"
+            },
+            {
+                "nombre": "Semipresencial",
+                "descripcion": "Modalidad semipresencial de cursado"
+            }
+        ],
+        "plan_vigente": {
+            "id": 11,
+            "ordenanza": "0859/01",
+            "activo": true,
+            "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/profesoradodelenguaycomunicacionoralyescrita_0859-01_060320112852.pdf",
+            "_links": {
+                "self": {
+                    "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/11"
+                },
+                "asignaturas": {
+                    "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=11&withExport=1"
+                }
+            }
+        },
+        "planes": [
+            {
+                "id": 10,
+                "ordenanza": "0962/98",
+                "activo": true,
+                "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/profesoradodelenguaycomunicacionoralyescrita_0962-98_040820043416.pdf",
+                "_links": {
+                    "self": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/10"
+                    },
+                    "asignaturas": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=10&withExport=1"
+                    }
+                }
+            },
+            {
+                "id": 11,
+                "ordenanza": "0859/01",
+                "activo": true,
+                "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/profesoradodelenguaycomunicacionoralyescrita_0859-01_060320112852.pdf",
+                "_links": {
+                    "self": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/11"
+                    },
+                    "asignaturas": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=11&withExport=1"
+                    }
+                }
+            }
+        ],
+        "departamento": {
+            "nombre": "Lengua, Literatura y Comunicación",
+            "href": "http://apps.curza.uncoma.edu.ar/api/v1/departamento/5"
+        },
+        "es_titulo_intermedio": false,
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/carrera/9"
+            },
+            "planes": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/carrera?id=9"
+            }
+        }
+    },
+    {
+        "id": 10,
+        "nombre": "Licenciatura en Arte y Sociedad",
+        "titulo": null,
+        "alcance": null,
+        "duracion_total_anos": -1,
+        "duracion_total_hs": -1,
+        "perfil": null,
+        "modalidades": [
+            {
+                "nombre": "Presencial",
+                "descripcion": "Modalidad presencial de cursado"
+            }
+        ],
+        "plan_vigente": null,
+        "planes": [
+            {
+                "id": 12,
+                "ordenanza": "0674/16",
+                "activo": true,
+                "archivo": "",
+                "_links": {
+                    "self": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/12"
+                    },
+                    "asignaturas": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=12&withExport=1"
+                    }
+                }
+            }
+        ],
+        "departamento": {
+            "nombre": "Lengua, Literatura y Comunicación",
+            "href": "http://apps.curza.uncoma.edu.ar/api/v1/departamento/5"
+        },
+        "es_titulo_intermedio": false,
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/carrera/10"
+            },
+            "planes": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/carrera?id=10"
+            }
+        }
+    },
+    {
+        "id": 11,
+        "nombre": "Licenciatura en Administración Pública",
+        "titulo": null,
+        "alcance": "",
+        "duracion_total_anos": 4,
+        "duracion_total_hs": -1,
+        "perfil": "<p>El Licenciado ser&aacute; un profesional capacitado en forma eficiente para desempe&ntilde;arse en los distintos niveles de conducci&oacute;n de Organismos Nacionales, Provinciales y Municipales y de Organizaciones no gubernamentales para la planificaci&oacute;n y an&aacute;lisis de aspectos socio-pol&iacute;ticos, administrativos, econ&oacute;micos y jur&iacute;dicos de organizaciones p&uacute;blicas. Asimismo intervenir en la definici&oacute;n de objetivos y las pol&iacute;ticas de las organizaciones. Estar&aacute; preparado para integrar equipos interdisciplinarios de planificaci&oacute;n, gesti&oacute;n y control como intervenir en proyectos de investigaci&oacute;n relacionados con el desarrollo del saber cient&iacute;fico.</p>",
+        "modalidades": [
+            {
+                "nombre": "Presencial",
+                "descripcion": "Modalidad presencial de cursado"
+            }
+        ],
+        "plan_vigente": {
+            "id": 14,
+            "ordenanza": "0814/01",
+            "activo": true,
+            "archivo": "",
+            "_links": {
+                "self": {
+                    "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/14"
+                },
+                "asignaturas": {
+                    "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=14&withExport=1"
+                }
+            }
+        },
+        "planes": [
+            {
+                "id": 14,
+                "ordenanza": "0814/01",
+                "activo": true,
+                "archivo": "",
+                "_links": {
+                    "self": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/14"
+                    },
+                    "asignaturas": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=14&withExport=1"
+                    }
+                }
+            }
+        ],
+        "departamento": {
+            "nombre": "Administración Pública",
+            "href": "http://apps.curza.uncoma.edu.ar/api/v1/departamento/6"
+        },
+        "es_titulo_intermedio": false,
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/carrera/11"
+            },
+            "planes": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/carrera?id=11"
+            }
+        }
+    },
+    {
+        "id": 12,
+        "nombre": "Tecnicatura Universitaria en Administración Pública",
+        "titulo": null,
+        "alcance": "<p>La carrera de Tecnicatura en Administraci&oacute;n P&uacute;blica, tender&aacute; a formar profesionales para desempe&ntilde;arse en los distintos niveles de Organismos Nacionales, Provinciales y Municipales y de Organizaciones no gubernamentales</p>",
+        "duracion_total_anos": 3,
+        "duracion_total_hs": 1920,
+        "perfil": "<p>La Tecnicatura superior en Administraci&oacute;n P&uacute;blica se propone como objetivo general proporcionar formaci&oacute;n acad&eacute;mica - profesional para la gesti&oacute;n y administraci&oacute;n. Asimismo, el prop&oacute;sito fundamental de la formaci&oacute;n de profesionales se orienta que &eacute;stos comprendan los principales problemas de la sociedad en la que act&uacute;an las organizaciones p&uacute;blicas y contribuir al dise&ntilde;o y ejecuci&oacute;n de pol&iacute;ticas orientadas a generar respuestas a dichos problemas. Esta formaci&oacute;n se basa en una &eacute;tica de promoci&oacute;n de los derechos ciudadanos, la transparencia de la gesti&oacute;n p&uacute;blica y la sustentabilidad social, ambiental y cultural de los procesos de desarrollo, apuntando a la construcci&oacute;n de sociedades democr&aacute;ticas, equitativas y aut&oacute;nomas</p>",
+        "modalidades": [
+            {
+                "nombre": "Presencial",
+                "descripcion": "Modalidad presencial de cursado"
+            }
+        ],
+        "plan_vigente": {
+            "id": 21,
+            "ordenanza": "1521/14",
+            "activo": true,
+            "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/tecnicaturauniversitariaenadministracionpublica_1521-14_120320122422.pdf",
+            "_links": {
+                "self": {
+                    "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/21"
+                },
+                "asignaturas": {
+                    "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=21&withExport=1"
+                }
+            }
+        },
+        "planes": [
+            {
+                "id": 18,
+                "ordenanza": "0428/88",
+                "activo": true,
+                "archivo": "",
+                "_links": {
+                    "self": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/18"
+                    },
+                    "asignaturas": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=18&withExport=1"
+                    }
+                }
+            },
+            {
+                "id": 21,
+                "ordenanza": "1521/14",
+                "activo": true,
+                "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/tecnicaturauniversitariaenadministracionpublica_1521-14_120320122422.pdf",
+                "_links": {
+                    "self": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/21"
+                    },
+                    "asignaturas": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=21&withExport=1"
+                    }
+                }
+            }
+        ],
+        "departamento": {
+            "nombre": "Administración Pública",
+            "href": "http://apps.curza.uncoma.edu.ar/api/v1/departamento/6"
+        },
+        "es_titulo_intermedio": false,
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/carrera/12"
+            },
+            "planes": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/carrera?id=12"
+            }
+        }
+    },
+    {
+        "id": 13,
+        "nombre": "Tecnicatura Universitaria en Administración de Sistemas y Software Libre",
+        "titulo": null,
+        "alcance": "<p>El T&eacute;cnico Universitario en Administraci&oacute;n de sistemas y software libre estar&aacute; capacitado para realizar las siguientes tareas: Instalar sistemas GNU/Linux en estaci&oacute;n de trabajo, Configurar estaciones de trabajo en redes de computadoras, Desarrollar tareas de administraci&oacute;n de sistemas: administraci&oacute;n de usuarios, instalaci&oacute;n de programas, mantenimiento de sistemas de archivos y copias de respaldo, Desarrollar peque&ntilde;os programas que permitan la automatizaci&oacute;n de actividades propias de la administraci&oacute;n de sistemas, Participar en actividades relacionadas a la secci&oacute;n del software apropiado de acuerdo a requerimientos especificos, Relevear y analizar problemas t&eacute;cnicos para la b&uacute;suqeda de soporte y soluciones</p>",
+        "duracion_total_anos": 2.5,
+        "duracion_total_hs": 1600,
+        "perfil": "<p>El objetivo de esta carrera consiste en formar a los alumnos en el conocimiento y empleo de procedimientos, modelos, t&eacute;cnicas y herramientas para abordar la problem&aacute;tica relativa a la implementaci&oacute;n de tecnolog&iacute;as libres, entendi&eacute;ndose como tal todos aquellos modernos desarrollos tecnol&oacute;gicos que comparten en todos sus aspectos, se pretende formar un perfil de egresado con las bases suficientes para administrar una infraestructura compuesta por hardware, sistemas operativos y redes. Entendiendo que la comprensi&oacute;n de las bases estructurales, subyacentes a cualquier software, permiten una posterior profundizaci&oacute;n para la resoluci&oacute;n de necesidades tecnol&oacute;gicas puntales.</p>",
+        "modalidades": [
+            {
+                "nombre": "Presencial",
+                "descripcion": "Modalidad presencial de cursado"
+            },
+            {
+                "nombre": "Semipresencial",
+                "descripcion": "Modalidad semipresencial de cursado"
+            }
+        ],
+        "plan_vigente": {
+            "id": 15,
+            "ordenanza": "0895/12",
+            "activo": true,
+            "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/tecnicaturauniversitariaenadministraciondesistemasysoftwarelibre_0895-12_060320112349.pdf",
+            "_links": {
+                "self": {
+                    "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/15"
+                },
+                "asignaturas": {
+                    "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=15&withExport=1"
+                }
+            }
+        },
+        "planes": [
+            {
+                "id": 15,
+                "ordenanza": "0895/12",
+                "activo": true,
+                "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/tecnicaturauniversitariaenadministraciondesistemasysoftwarelibre_0895-12_060320112349.pdf",
+                "_links": {
+                    "self": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/15"
+                    },
+                    "asignaturas": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=15&withExport=1"
+                    }
+                }
+            }
+        ],
+        "departamento": {
+            "nombre": "Ciencia y Tecnología",
+            "href": "http://apps.curza.uncoma.edu.ar/api/v1/departamento/7"
+        },
+        "es_titulo_intermedio": false,
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/carrera/13"
+            },
+            "planes": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/carrera?id=13"
+            }
+        }
+    },
+    {
+        "id": 14,
+        "nombre": "Tecnicatura Universitaria en Desarrollo Web",
+        "titulo": null,
+        "alcance": "<p>El T&eacute;nico Universitario en Desarrollo de Aplicaciones Web podr&aacute; desempe&ntilde;arse en la actividad p&uacute;blica o privada espec&iacute;ficamente</p>",
+        "duracion_total_anos": 2.5,
+        "duracion_total_hs": 1600,
+        "perfil": "<p>El objetivo general de esta carrera consiste en formar a los alumnos en el conocimiento y empleo de estrategias, modelos, m&eacute;todos, t&eacute;cnicas y herramientas para abordar la resoluci&oacute;n de problemas de sitios, aplicaciones y procesos centrados en la Web, enfatizando aspectos de calidad con restricciones de costo y tiempo. Se busca formar un egresado con conocimientos te&oacute;ricos y pr&aacute;cticos en programaci&oacute;n, dise&ntilde;o y tecnolog&iacute;as relacionadas con la creaci&oacute;n de aplicaciones bajo entornos web.</p>",
+        "modalidades": [
+            {
+                "nombre": "Presencial",
+                "descripcion": "Modalidad presencial de cursado"
+            },
+            {
+                "nombre": "Semipresencial",
+                "descripcion": "Modalidad semipresencial de cursado"
+            }
+        ],
+        "plan_vigente": {
+            "id": 17,
+            "ordenanza": "1074/13",
+            "activo": true,
+            "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/tecnicaturauniversitariaendesarrolloweb_1074-13_060320104236.pdf",
+            "_links": {
+                "self": {
+                    "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/17"
+                },
+                "asignaturas": {
+                    "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=17&withExport=1"
+                }
+            }
+        },
+        "planes": [
+            {
+                "id": 16,
+                "ordenanza": "0885/12",
+                "activo": true,
+                "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/tecnicaturauniversitariaendesarrolloweb_0885-12_060320105507.pdf",
+                "_links": {
+                    "self": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/16"
+                    },
+                    "asignaturas": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=16&withExport=1"
+                    }
+                }
+            },
+            {
+                "id": 17,
+                "ordenanza": "1074/13",
+                "activo": true,
+                "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/tecnicaturauniversitariaendesarrolloweb_1074-13_060320104236.pdf",
+                "_links": {
+                    "self": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/17"
+                    },
+                    "asignaturas": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=17&withExport=1"
+                    }
+                }
+            }
+        ],
+        "departamento": {
+            "nombre": "Ciencia y Tecnología",
+            "href": "http://apps.curza.uncoma.edu.ar/api/v1/departamento/7"
+        },
+        "es_titulo_intermedio": false,
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/carrera/14"
+            },
+            "planes": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/carrera?id=14"
+            }
+        }
+    },
+    {
+        "id": 15,
+        "nombre": "Licenciatura en Gestión de Recursos Humanos (Ciclo de Licenciatura)",
+        "titulo": null,
+        "alcance": "<p>El profesional que alcance el t&iacute;tulo de Licenciado en Gesti&oacute;n de Recursos Humanos, Ciclo de Licenciatura, ser&aacute; competente para desempe&ntilde;ar las siguientes actividades laborales:</p>\r\n<ul>\r\n<li>Formular, implementar y evaluar pol&iacute;ticas de recursos humanos.</li>\r\n<li>Dise&ntilde;ar planes y programas de gesti&oacute;n de recursos humanos en cuanto a todas lasactividades que forman un sistema de gesti&oacute;n de recursos humanos.</li>\r\n<li>Planificar estrat&eacute;gicamente, organizar y dirigir la administraci&oacute;n de recursos humanos de una organizaci&oacute;n.</li>\r\n<li>Dise&ntilde;ar el funcionamiento de las organizaciones respecto de los procesos de trabajo, la estructura de puestos y perfiles profesionales requeridos, como as&iacute; tambi&eacute;n el propio de las &Aacute;reas de recursos humanos.</li>\r\n<li>Elaborar y conducir programas de reclutamiento, selecci&oacute;n, ingreso y movilidad del personal.</li>\r\n<li>Dise&ntilde;ar programas de capacitaci&oacute;n, desarrollo profesional y de carrera para el personal.</li>\r\n<li>Asesorar en el dise&ntilde;o de pol&iacute;ticas de compensaciones.</li>\r\n<li>Dise&ntilde;ar programas de evaluaci&oacute;n de desempe&ntilde;o.</li>\r\n<li>Asesorar en la gesti&oacute;n de tecnolog&iacute;as y sistemas de informaci&oacute;n y control de personal.</li>\r\n<li>Evaluar y aplicar normas laborales en las organizaciones.</li>\r\n<li>Coordinar equipos de trabajo, fortaleciendo redes de comunicaci&oacute;n e informaci&oacute;n.</li>\r\n<li>Asesorar en la resoluci&oacute;n de conflictos generados por la interrelaci&oacute;n de los integrantes de las organizaciones.</li>\r\n</ul>",
+        "duracion_total_anos": 2,
+        "duracion_total_hs": 1056,
+        "perfil": "<p>El perfil profesional buscado pretende formar capacidades t&eacute;cnicas ligadas al a gsti&oacute;n de recursos humanos, pero tambi&eacute;n en competencias vinculadas con el an&aacute;lisis abierto y comprensivo de los significados que la dimensi&oacute;n humana -racional, emocional y &eacute;tica- otorga al a gesti&oacute;n de las organizaciones, en contextos de alta complejidad y volatilidad.</p>",
+        "modalidades": [
+            {
+                "nombre": "Semipresencial",
+                "descripcion": "Modalidad semipresencial de cursado"
+            }
+        ],
+        "plan_vigente": {
+            "id": 20,
+            "ordenanza": "0180/14",
+            "activo": true,
+            "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/licenciaturaengestionderecursoshumanos(ciclodelicenciatura)_0180-14_110320114800.pdf",
+            "_links": {
+                "self": {
+                    "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/20"
+                },
+                "asignaturas": {
+                    "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=20&withExport=1"
+                }
+            }
+        },
+        "planes": [
+            {
+                "id": 20,
+                "ordenanza": "0180/14",
+                "activo": true,
+                "archivo": "http://apps.curza.uncoma.edu.ar/backend/planFiles/licenciaturaengestionderecursoshumanos(ciclodelicenciatura)_0180-14_110320114800.pdf",
+                "_links": {
+                    "self": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/20"
+                    },
+                    "asignaturas": {
+                        "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/plan?id=20&withExport=1"
+                    }
+                }
+            }
+        ],
+        "departamento": {
+            "nombre": "Administración Pública",
+            "href": "http://apps.curza.uncoma.edu.ar/api/v1/departamento/6"
+        },
+        "es_titulo_intermedio": false,
+        "_links": {
+            "self": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/carrera/15"
+            },
+            "planes": {
+                "href": "http://apps.curza.uncoma.edu.ar/api/v1/plan/carrera?id=15"
+            }
+        }
+    }
+]
