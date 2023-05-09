@@ -13,7 +13,8 @@
     "_links": {
       "self": {
         "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/1"
-      }
+      },
+      "exports": []
     }
   },
   {
@@ -30,7 +31,8 @@
     "_links": {
       "self": {
         "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/3"
-      }
+      },
+      "exports": []
     }
   },
   {
@@ -47,7 +49,8 @@
     "_links": {
       "self": {
         "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/4"
-      }
+      },
+      "exports": []
     }
   },
   {
@@ -64,7 +67,8 @@
     "_links": {
       "self": {
         "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/5"
-      }
+      },
+      "exports": []
     }
   },
   {
@@ -81,7 +85,8 @@
     "_links": {
       "self": {
         "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/6"
-      }
+      },
+      "exports": []
     }
   },
   {
@@ -98,7 +103,8 @@
     "_links": {
       "self": {
         "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/7"
-      }
+      },
+      "exports": []
     }
   },
   {
@@ -115,7 +121,8 @@
     "_links": {
       "self": {
         "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/8"
-      }
+      },
+      "exports": []
     }
   },
   {
@@ -132,7 +139,8 @@
     "_links": {
       "self": {
         "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/9"
-      }
+      },
+      "exports": []
     }
   },
   {
@@ -149,7 +157,8 @@
     "_links": {
       "self": {
         "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/10"
-      }
+      },
+      "exports": []
     }
   },
   {
@@ -166,7 +175,8 @@
     "_links": {
       "self": {
         "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/11"
-      }
+      },
+      "exports": []
     }
   },
   {
@@ -183,7 +193,8 @@
     "_links": {
       "self": {
         "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/12"
-      }
+      },
+      "exports": []
     }
   },
   {
@@ -200,7 +211,8 @@
     "_links": {
       "self": {
         "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/13"
-      }
+      },
+      "exports": []
     }
   },
   {
@@ -217,7 +229,8 @@
     "_links": {
       "self": {
         "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/14"
-      }
+      },
+      "exports": []
     }
   },
   {
@@ -234,7 +247,8 @@
     "_links": {
       "self": {
         "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/16"
-      }
+      },
+      "exports": []
     }
   },
   {
@@ -251,7 +265,8 @@
     "_links": {
       "self": {
         "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/17"
-      }
+      },
+      "exports": []
     }
   },
   {
@@ -268,7 +283,8 @@
     "_links": {
       "self": {
         "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/18"
-      }
+      },
+      "exports": []
     }
   },
   {
@@ -285,7 +301,8 @@
     "_links": {
       "self": {
         "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/19"
-      }
+      },
+      "exports": []
     }
   },
   {
@@ -302,7 +319,8 @@
     "_links": {
       "self": {
         "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/20"
-      }
+      },
+      "exports": []
     }
   },
   {
@@ -319,7 +337,8 @@
     "_links": {
       "self": {
         "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/22"
-      }
+      },
+      "exports": []
     }
   },
   {
@@ -336,7 +355,8 @@
     "_links": {
       "self": {
         "href": "http://apps.curza.uncoma.edu.ar/api/v1/asignatura/23"
-      }
+      },
+      "exports": []
     }
   }
 ]
